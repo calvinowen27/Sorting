@@ -1,7 +1,7 @@
-# Assignment 3:
+# Comparing Sorting Algorithms
 
 ## Short Description:
-	This program test the performance of 4 sorting algorithms, Batcher Sort, 
+	This program tests the performance of 4 sorting algorithms, Batcher Sort, 
 	Heap Sort, Quick Sort, and Shell Sort. It runs these algorithms with 
 	seeded, pseudorandom arrays of integers and keep track of statistics
 	including the number of moves (anytime a value in the array is repositioned) 
@@ -11,7 +11,7 @@
  
 ## Build:
 	To build the program, run '$ make', '$ make all', or '$ make sort' 
-	in the terminal within the assignment 3 directory. This will create
+	in the terminal within the sorting directory. This will create
 	and executable named 'sorting' which can be run with optional arguments.
 
 ## Cleaning:
